@@ -1,0 +1,28 @@
+#: L
+6
+#: G
+8
+#: POWER
+10
+#: NT
+5
+#: START ANGLE
+0
+#: END ANGLE
+6
+#: GAMMA
+0.1
+#: BETA
+0.8
+#: EPSILON
+0.5
+#: SIGMA
+1
+#: PFA
+0.00001
+#: T MAX
+5
+#: NUMBER OF K STEPS
+5
+#: VERSION
+1
